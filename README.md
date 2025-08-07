@@ -8,8 +8,12 @@
 - Optimization Methods: Simulated annealing implementation
 - Real-Time Analysis: Job Market Update using Kafka
 - Segmentation Model: Customer Segmentation using KMeans and GMM
-- 
-- 
+- Hyperparameter tuning: Grid Search and Randomized Search comparison
+- Web-Scraping: Analyzing EU Parliament votes and speeches across parties using Selenium
+- LLM Chatbot based on the document: Groq and Serper API allow to answer questions regarding data
+- RAG: ChromaDB and LLaMA3.2 embedding allow to answer questions regarding data
+- OpenAI Distillations and Evals with Chatbot: teacher and student fine-tuned distilled models
+
 ## Packages learned
 - pandas, numpy
 - matplotlib, seaborn
@@ -17,6 +21,8 @@
 - torch
 - pennylane
 - nltk
-- BeautifulSoup, Selenium
+- requests, BeautifulSoup, Selenium
 - mediapipe
-- kafka 
+- kafka
+- streamlit, langchain, gradio
+- openai
