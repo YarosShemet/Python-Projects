@@ -1,10 +1,22 @@
 ## Data Science Projects
 - Data Mining: Airline Satisfaction Prediction. Several models like Logistic Regression, Decision Tree, Neural Network (MLP), KNN and SVM are used
-- NLP and Sentiment Analysis: Movie Review Sentiment Analysis. TF-IDF, word cloud, sentiment scoring, sentiment prediction 
+- NLP and Sentiment Analysis: Movie Review Sentiment Analysis. TF-IDF, word cloud, sentiment scoring, sentiment prediction
+- Quantum Machine Learning: Churn Prediction using quantum SVM in comparison to classic approach
+- Quantum Machine Learning: Pennylane Exercises (https://pennylane.ai/codebook)
+- Dance Analysis: Frame processing and body parts recognition with dance perfomance report
+- Unbalanced Data: Fraud detection using Mastercard Hackathon data
+- Optimization Methods: Simulated annealing implementation
+- Real-Time Analysis: Job Market Update using Kafka
+- Segmentation Model: Customer Segmentation using KMeans and GMM
+- 
+- 
 ## Packages learned
 - pandas, numpy
 - matplotlib, seaborn
-- sklearn
-- re
+- sklearn, scipy, imblearn
+- torch
+- pennylane
 - nltk
 - BeautifulSoup, Selenium
+- mediapipe
+- kafka 
